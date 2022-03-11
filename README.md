@@ -6,13 +6,14 @@
     <a href="https://www.facebook.com/mohammed.saleh.elshazly"><img src="https://img.shields.io/badge/facebook-%23149EF8?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/MohammedSalehelShazly/MohammedSalehelShazly/blob/main/profile-img.png" align="right" width="25%"/>
 
-<p>• software engineer and Flutter developer, 1+ year experience in Flutter.<p/>
+<p>• Some technologies I enjoy working with include Flutter, Firebase, MySQL, and SQLite.<p/>
+<p>• software engineer and Flutter developer, 1.5 year experience in Flutter.<p/>
 <p>• I’m a very ambitious person and I always develop myself to be up to date.</p>
 <p>• I look forward to learning more and not being satisfied with what I learned.<p/>
 <p>• in short very passionate about Tech in general.<p/>
-<p>• Some technologies I enjoy working with include Flutter, SQLite, and Firebase.<p/>
+
 
 <p> </p>
 <p> </p>
