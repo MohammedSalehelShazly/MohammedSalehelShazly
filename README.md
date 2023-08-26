@@ -14,7 +14,7 @@
   <img src="https://github.com/MohammedSalehelShazly/MohammedSalehelShazly/blob/main/profile-img.png" align="right" width="25%"/>
 
 <p>• Some technologies I enjoy working with include Flutter, Firebase, MySQL, and SQLite.<p/>
-<p>• software engineer and Flutter developer, 2 year experience in Flutter.<p/>
+<p>• Software engineer and Flutter developer, 2+ years experience in Flutter.<p/>
 <p>• I’m a very ambitious person and I always develop myself to be up to date.</p>
 <p>• I look forward to learning more and not being satisfied with what I learned.<p/>
 <p>• in short very passionate about Tech in general.<p/>
