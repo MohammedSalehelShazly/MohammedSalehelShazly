@@ -11,7 +11,7 @@
   
   <img src="https://github.com/MohammedSalehelShazly/MohammedSalehelShazly/blob/main/profile-img.png" align="right" width="25%"/>
 <ul>
-<li> Flutter developer with over 3 years of dedicated expertise.</li>
+<li> Flutter developer with about 4 years of dedicated expertise.</li>
 
 <li> I am inherently ambitious, continually striving to surpass my goals while staying updated with the latest advancements in technology.</li>
 
