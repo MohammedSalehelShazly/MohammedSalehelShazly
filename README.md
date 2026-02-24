@@ -14,6 +14,7 @@
     <a href="https://mohammed-saleh.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio"/>
     </a>
+    <!-- <img src="https://komarev.com/ghpvc/?username=MohammedSalehelShazly&style=plastic" alt="Profile Views"/> -->
   </p>
 </p>
 
